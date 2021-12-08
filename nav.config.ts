@@ -3,7 +3,7 @@ import { IConfig } from './src/types'
 const c: IConfig = {
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'scribemorning-7xjw0l.stormkit.dev',
+  gitRepoUrl: 'https://github.com/ymirlee/nav',
 
   // Deployment branch name
   // 部署分支
